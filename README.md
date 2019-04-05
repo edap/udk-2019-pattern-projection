@@ -41,22 +41,20 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Resources/Inspiration
 
-- Chapter [1](https://thebookofshaders.com/01/), [2](https://thebookofshaders.com/02/) and [3](https://thebookofshaders.com/03/)of "The Book of Shader".
+- Chapter [1](https://thebookofshaders.com/01/), [2](https://thebookofshaders.com/02/) and [3](https://thebookofshaders.com/03/) of "The Book of Shader".
 - How to run your shader on different [platforms](https://thebookofshaders.com/04/)
 
 
-- pattern by [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
+- patterns by [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
 - patterns by [Anni Albers](https://www.google.com/search?q=anni+albers)
-- [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
-- [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
-- pattern by [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
-
-- More recent work pattern by [Saskia Freeke](http://sasj.tumblr.com/)
+- patterns by [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
+- patterns by [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
+- patterns by [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
+- More recent work with patterns by [Saskia Freeke](http://sasj.tumblr.com/)
 
 ### Class Activities
 
 - Your first shader
-- Create your own pattern. It needs to contain the modulo operator and at least one wave.
 
 ### Homework
 - Find an artist working with pattern, collect 3/4 images of its work, you will show them in class the next lesson with your pattern.
@@ -93,6 +91,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Class Activities
 
+
 ### Homework
 - Draw a form that combines several shapes.
 
@@ -110,7 +109,13 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Class Activities
 
+- Create your own pattern.
+
+
 ### Homework
+- Create at least 2 patterns, one of those has to be a truchet pattern.
+- Think about a fabric on which you would like to project your pattern, think about how to hang it to a wall, if you want to project on a wall. Think about how could you move it, if you want to move it.
+
 
 <a name="#five">
 
