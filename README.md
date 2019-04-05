@@ -16,9 +16,9 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 [Intro to the course](#1)
 
-[Shaping functions and colors](#2)
+[functions and colors](#2)
 
-[Signed distance function](#3)
+[Shapes and signed distance function](#3)
 
 [Patterns](#4)
 
@@ -64,11 +64,11 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 <a name="#2">
 
-## Shaping functions and colors
+## Functions and colors
 
 </a>
 
-- chapter [three](https://thebookofshaders.com/03/) and [four](https://thebookofshaders.com/05/)of "The Book of Shader".
+- chapter [5](https://thebookofshaders.com/05/) and [6](https://thebookofshaders.com/06/)of "The Book of Shader".
 
 
 
@@ -78,22 +78,17 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Class Activities
 
-- Make a pattern compose by multiple elements overlapping.
-- Create an account on shadertoy. Publish your pattern there.
-
 ### Homework
-
-
-
 
 <a name="#3">
 
-## Signed distance function
+## Shapes and signed distance function
 
 </a>
 
 ### Resources/Inspiration
 
+- Chapter [7](https://thebookofshaders.com/07/) and [8](https://thebookofshaders.com/08/)of the Book of Shaders.
 - Hugh Kennedy [interactive tutorial](http://hughsk.io/fragment-foundry/chapters/07-distance-fields.html)
 
 ### Class Activities
@@ -103,38 +98,42 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 <a name="#4">
 
-## Patterns
+## Matrices and Patterns
+
+</a>
+
+
+### Resources/Inspiration
+
+- chapter [8](https://thebookofshaders.com/08/) and [9](https://thebookofshaders.com/09/) of the Book of Shaders
+
+### Class Activities
+
+### Homework
+
+<a name="#5">
+
+## Randomness and Noise
 
 </a>
 
 ### Resources/Inspiration
-- Read the chapter 9 of [the book of shaders](https://thebookofshaders.com/09/)
+- Rioji Ikeda [works](http://www.ryojiikeda.com/)
+- Chapter [10](https://thebookofshaders.com/10/) and [11](https://thebookofshaders.com/11/) of the Book of shader.
 
-- Projections, intro to warping.
-
-<a name="#1">
-
-## lesson 5
-
-</a>
-
-- 
 
 <a name="#6">
 
-## lesson 6
+## Projection patterns final project pt.1
 
 </a>
 
-- Final Project
 
 <a name="#7">
 
-## lesson 7
+## Projection patterns final project pt.2
 
 </a>
-</a>
-- Final Project
 
 
 
