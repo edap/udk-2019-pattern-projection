@@ -14,26 +14,26 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ##### Table of Contents
 
-[Intro to the course](#1)
+[Intro to the course](#one)
 
-[functions and colors](#2)
+[Functions and colors](#two)
 
-[Shapes and signed distance function](#3)
+[Shapes and signed distance function](#three)
 
-[Patterns](#4)
+[Matrices and Patterns](#four)
 
-[Randomness and Projections](#5) 
+[Randomness and Noise](#five) 
 
-[Final project pt. 1](#6)
+[Final project pt. 1](#six)
 
-[Final project pt. 2](#7)
+[Final project pt. 2](#seven)
 
 
-<a name="#1">
+<a name="#one">
 
 ## Intro to the course
 
-<a/>
+</a>
 
 - Goals of the course
 - Example of works
@@ -62,7 +62,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Find an artist working with pattern, collect 3/4 images of its work, you will show them in class the next lesson with your pattern.
 
 
-<a name="#2">
+<a name="#two">
 
 ## Functions and colors
 
@@ -80,7 +80,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Homework
 
-<a name="#3">
+<a name="#three">
 
 ## Shapes and signed distance function
 
@@ -94,9 +94,10 @@ This course focuses on patterns composition and projection on surfaces using sha
 ### Class Activities
 
 ### Homework
+- Draw a form that combines several shapes.
 
 
-<a name="#4">
+<a name="#four">
 
 ## Matrices and Patterns
 
@@ -111,7 +112,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Homework
 
-<a name="#5">
+<a name="#five">
 
 ## Randomness and Noise
 
@@ -122,16 +123,16 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Chapter [10](https://thebookofshaders.com/10/) and [11](https://thebookofshaders.com/11/) of the Book of shader.
 
 
-<a name="#6">
+<a name="#six">
 
-## Projection patterns final project pt.1
+## Final project pt.1
 
 </a>
 
 
-<a name="#7">
+<a name="#seven">
 
-## Projection patterns final project pt.2
+## Final project pt.2
 
 </a>
 
