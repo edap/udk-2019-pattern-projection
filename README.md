@@ -4,12 +4,13 @@
 
 Artwork by [Horst Bartnig](https://de.wikipedia.org/wiki/Horst_Bartnig)
 
-This course focuses on patterns composition using openFrameworks and on their projection on a surface.
+This course focuses on patterns composition and projection.
 
 *Requirements:*
 
 - A working installation of openFrameworks >= to 0.10.1.
 - Basic knowledge of programming in openFrameworks.
+- These [ofxAutoReloadedShader](https://github.com/andreasmuller/ofxAutoReloadedShader) and [ofxGLWarper](https://github.com/roymacdonald/ofxGLWarper) in your `addons` folder. 
 
 ## lesson 1
 - Examples of patterns
@@ -17,14 +18,16 @@ This course focuses on patterns composition using openFrameworks and on their pr
 
 *Homework*
 
-- Create a pattern using only sine and cosine, lines, spheres or squares
-- Create a pattern using the modulo operator
-- Find an artist working with pattern, collect 3/4 images of its work.
+- Copy-cat game: chose a pattern by Saskia Freeke(http://sasj.tumblr.com/) and replicate it.
+- Create your own pattern. It needs to contain the modulo operator and at least one wave.
+- Find an artist working with pattern, collect 3/4 images of its work, you will show them in class the next lesson with your pattern.
+
+
 
 ## lesson 2
 - Intro to shaders
 
-*Homewor*
+*Homework*
 
 - Read the chapter 9 of [the book of shaders](https://thebookofshaders.com/09/)
 - Make a pattern compose by multiple elements overlapping.

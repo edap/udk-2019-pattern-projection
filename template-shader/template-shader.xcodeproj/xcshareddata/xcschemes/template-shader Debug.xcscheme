@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-               BuildableName = "Gui_Homework.app"
-               BlueprintName = "Gui_Homework"
-               ReferencedContainer = "container:Gui_Homework.xcodeproj">
+               BuildableName = "template-shader.app"
+               BlueprintName = "template-shader"
+               ReferencedContainer = "container:template-shader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "Gui_Homework.app"
-            BlueprintName = "Gui_Homework"
-            ReferencedContainer = "container:Gui_Homework.xcodeproj">
+            BuildableName = "template-shader.app"
+            BlueprintName = "template-shader"
+            ReferencedContainer = "container:template-shader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "Gui_Homework.app"
-            BlueprintName = "Gui_Homework"
-            ReferencedContainer = "container:Gui_Homework.xcodeproj">
+            BuildableName = "template-shader.app"
+            BlueprintName = "template-shader"
+            ReferencedContainer = "container:template-shader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "Gui_Homework.app"
-            BlueprintName = "Gui_Homework"
-            ReferencedContainer = "container:Gui_Homework.xcodeproj">
+            BuildableName = "template-shader.app"
+            BlueprintName = "template-shader"
+            ReferencedContainer = "container:template-shader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

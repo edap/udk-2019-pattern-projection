@@ -1,0 +1,3 @@
+ofxAutoReloadedShader
+ofxGLWarper
+ofxGui
