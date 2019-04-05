@@ -4,12 +4,11 @@
 
 Artwork by [Horst Bartnig](https://de.wikipedia.org/wiki/Horst_Bartnig)
 
-This course focuses on patterns composition and projection on surfaces.
+This course focuses on patterns composition and projection on surfaces using shaders and openFrameworks.
 
 *Requirements:*
 
 - A working installation of openFrameworks >= to 0.10.1.
-- Basic knowledge of programming in openFrameworks.
 - These [ofxAutoReloadedShader](https://github.com/andreasmuller/ofxAutoReloadedShader) and [ofxGLWarper](https://github.com/roymacdonald/ofxGLWarper) in your `addons` folder. 
 
 
@@ -17,17 +16,17 @@ This course focuses on patterns composition and projection on surfaces.
 
 [Intro to the course](#1)
 
-[Labyrinth](#2)
+[Shaping functions and colors](#2)
 
-[Point clouds](#3)
+[Signed distance function](#3)
 
-[3D scan of objects](#4)
+[Patterns](#4)
 
-[3D scan of ambients](#5) 
+[Randomness and Projections](#5) 
 
-[3D scanned model elaboration.](#6)
+[Final project pt. 1](#6)
 
-[3D scanned model elaboration.](#7)
+[Final project pt. 2](#7)
 
 
 <a name="#1">
@@ -36,14 +35,27 @@ This course focuses on patterns composition and projection on surfaces.
 
 <a/>
 
-- Examples of patterns
-- Examples of projection
+- Goals of the course
+- Example of works
+- What is a shader, make your first one.
 
 ### Resources/Inspiration
 
+- Chapter [1](https://thebookofshaders.com/01/), [2](https://thebookofshaders.com/02/) and [3](https://thebookofshaders.com/03/)of "The Book of Shader".
+- How to run your shader on different [platforms](https://thebookofshaders.com/04/)
+
+
+- pattern by [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
+- patterns by [Anni Albers](https://www.google.com/search?q=anni+albers)
+- [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
+- [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
+- pattern by [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
+
+- More recent work pattern by [Saskia Freeke](http://sasj.tumblr.com/)
+
 ### Class Activities
 
-- Copy-cat game: chose a pattern by Saskia Freeke(http://sasj.tumblr.com/) and replicate it.
+- Your first shader
 - Create your own pattern. It needs to contain the modulo operator and at least one wave.
 
 ### Homework
@@ -52,14 +64,17 @@ This course focuses on patterns composition and projection on surfaces.
 
 <a name="#2">
 
-## lesson 2
+## Shaping functions and colors
 
 </a>
 
-- Intro to shaders
+- chapter [three](https://thebookofshaders.com/03/) and [four](https://thebookofshaders.com/05/)of "The Book of Shader".
+
 
 
 ### Resources/Inspiration
+
+- Inigo Quiles [functions](http://www.iquilezles.org/www/articles/functions/functions.htm)
 
 ### Class Activities
 
@@ -68,16 +83,18 @@ This course focuses on patterns composition and projection on surfaces.
 
 ### Homework
 
-- Read the chapter 9 of [the book of shaders](https://thebookofshaders.com/09/)
 
 
-<a name="#2">
 
-## lesson 3
+<a name="#3">
+
+## Signed distance function
 
 </a>
 
 ### Resources/Inspiration
+
+- Hugh Kennedy [interactive tutorial](http://hughsk.io/fragment-foundry/chapters/07-distance-fields.html)
 
 ### Class Activities
 
@@ -86,8 +103,12 @@ This course focuses on patterns composition and projection on surfaces.
 
 <a name="#4">
 
-## lesson 4
+## Patterns
+
 </a>
+
+### Resources/Inspiration
+- Read the chapter 9 of [the book of shaders](https://thebookofshaders.com/09/)
 
 - Projections, intro to warping.
 
