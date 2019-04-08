@@ -105,7 +105,8 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Resources/Inspiration
 
-- chapter [8](https://thebookofshaders.com/08/) and [9](https://thebookofshaders.com/09/) of the Book of Shaders
+- chapter [8](https://thebookofshaders.com/08/) and [9](https://thebookofshaders.com/09/) of the Book of Shaders.
+- Multi-scale truchet patterns [1](http://archive.bridgesmathart.org/2018/bridges2018-39.pdf) and [2](https://christophercarlson.com/portfolio/multi-scale-truchet-patterns/).
 
 ### Class Activities
 
