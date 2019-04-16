@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		1CD33E884D9E3358252E82A1 /* ofxToggle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 907C5B5E104864A2D3A25745 /* ofxToggle.cpp */; };
 		483908258D00B98B4BE69F07 /* ofxLabel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78D67A00EB899FAC09430597 /* ofxLabel.cpp */; };
-		4E847D04587AE2FA1597E2F4 /* ofxGLWarper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AF6209C5F82972D99DE8A1D2 /* ofxGLWarper.cpp */; };
 		5CBB2AB3A60F65431D7B555D /* ofxButton.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C88333E71C9457E441C33474 /* ofxButton.cpp */; };
 		622F2B6B3FFAA37224C22AD2 /* ofxAutoReloadedShader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65E3959FF1F849DAE3BCC008 /* ofxAutoReloadedShader.cpp */; };
 		837220E80EB56CD44AD27F2A /* ofxSlider.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15F2C6477A769C03A56D1401 /* ofxSlider.cpp */; };
@@ -46,8 +45,8 @@
 		489B196944B06ADC2A071076 /* ofxColorPicker.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxColorPicker.h; path = ../../../addons/ofxGui/src/ofxColorPicker.h; sourceTree = SOURCE_ROOT; };
 		52AFA1F08C420992CAAAE648 /* ofxSlider.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxSlider.h; path = ../../../addons/ofxGui/src/ofxSlider.h; sourceTree = SOURCE_ROOT; };
 		65E3959FF1F849DAE3BCC008 /* ofxAutoReloadedShader.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxAutoReloadedShader.cpp; path = ../../../addons/ofxAutoReloadedShader/src/ofxAutoReloadedShader.cpp; sourceTree = SOURCE_ROOT; };
-		6F914853225DED71005D8A21 /* frag.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = frag.glsl; sourceTree = "<group>"; };
-		6F914854225DED71005D8A21 /* vert.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = vert.glsl; sourceTree = "<group>"; };
+		6F54810A22577BF700A101E2 /* frag.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = frag.glsl; sourceTree = "<group>"; };
+		6F54810B22577BF700A101E2 /* vert.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = vert.glsl; sourceTree = "<group>"; };
 		78D67A00EB899FAC09430597 /* ofxLabel.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxLabel.cpp; path = ../../../addons/ofxGui/src/ofxLabel.cpp; sourceTree = SOURCE_ROOT; };
 		802251BAF1B35B1D67B32FD0 /* ofxSliderGroup.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxSliderGroup.cpp; path = ../../../addons/ofxGui/src/ofxSliderGroup.cpp; sourceTree = SOURCE_ROOT; };
 		87F26B4B24CBD428AD9EEBAA /* ofxBaseGui.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxBaseGui.h; path = ../../../addons/ofxGui/src/ofxBaseGui.h; sourceTree = SOURCE_ROOT; };
@@ -55,11 +54,9 @@
 		907C5B5E104864A2D3A25745 /* ofxToggle.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxToggle.cpp; path = ../../../addons/ofxGui/src/ofxToggle.cpp; sourceTree = SOURCE_ROOT; };
 		9604B925D32EE39065747725 /* ofxBaseGui.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxBaseGui.cpp; path = ../../../addons/ofxGui/src/ofxBaseGui.cpp; sourceTree = SOURCE_ROOT; };
 		AE68B54581BE4A1DAE853180 /* ofxInputField.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxInputField.h; path = ../../../addons/ofxGui/src/ofxInputField.h; sourceTree = SOURCE_ROOT; };
-		AF6209C5F82972D99DE8A1D2 /* ofxGLWarper.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxGLWarper.cpp; path = ../../../addons/ofxGLWarper/src/ofxGLWarper.cpp; sourceTree = SOURCE_ROOT; };
 		B87C60311EC1FE841C1ECD89 /* ofxLabel.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxLabel.h; path = ../../../addons/ofxGui/src/ofxLabel.h; sourceTree = SOURCE_ROOT; };
 		C70D8946940288799E82131E /* ofxSliderGroup.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxSliderGroup.h; path = ../../../addons/ofxGui/src/ofxSliderGroup.h; sourceTree = SOURCE_ROOT; };
 		C88333E71C9457E441C33474 /* ofxButton.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxButton.cpp; path = ../../../addons/ofxGui/src/ofxButton.cpp; sourceTree = SOURCE_ROOT; };
-		D9D2C189892ACF2F28E0B18A /* ofxGLWarper.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxGLWarper.h; path = ../../../addons/ofxGLWarper/src/ofxGLWarper.h; sourceTree = SOURCE_ROOT; };
 		E112B3AEBEA2C091BF2B40AE /* ofxPanel.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxPanel.cpp; path = ../../../addons/ofxGui/src/ofxPanel.cpp; sourceTree = SOURCE_ROOT; };
 		E42962AC2163EDD300A6A9E2 /* ofCamera.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = ofCamera.cpp; path = ../../../libs/openFrameworks/3d/ofCamera.cpp; sourceTree = SOURCE_ROOT; };
 		E42962AD2163EDD300A6A9E2 /* ofMesh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofMesh.h; path = ../../../libs/openFrameworks/3d/ofMesh.h; sourceTree = SOURCE_ROOT; };
@@ -236,13 +233,12 @@
 		E42963712163EDD300A6A9E2 /* ofFmodSoundPlayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofFmodSoundPlayer.h; path = ../../../libs/openFrameworks/sound/ofFmodSoundPlayer.h; sourceTree = SOURCE_ROOT; };
 		E42963722163EDD300A6A9E2 /* ofSoundBuffer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = ofSoundBuffer.cpp; path = ../../../libs/openFrameworks/sound/ofSoundBuffer.cpp; sourceTree = SOURCE_ROOT; };
 		E42963732163EDD300A6A9E2 /* ofSoundBaseTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofSoundBaseTypes.h; path = ../../../libs/openFrameworks/sound/ofSoundBaseTypes.h; sourceTree = SOURCE_ROOT; };
-		E4B69B5B0A3A1756003C02F2 /* template-shader-warpDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "template-shader-warpDebug.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4B69B5B0A3A1756003C02F2 /* template-shader-fboDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "template-shader-fboDebug.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = src/main.cpp; sourceTree = SOURCE_ROOT; };
 		E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofApp.cpp; path = src/ofApp.cpp; sourceTree = SOURCE_ROOT; };
 		E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofApp.h; path = src/ofApp.h; sourceTree = SOURCE_ROOT; };
 		E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "openFrameworks-Info.plist"; sourceTree = "<group>"; };
 		E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Project.xcconfig; sourceTree = "<group>"; };
-		E8714FB653994CD3D5954321 /* ofxHomography.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxHomography.h; path = ../../../addons/ofxGLWarper/src/ofxHomography.h; sourceTree = SOURCE_ROOT; };
 		ECF8674C7975F1063C5E30CA /* ofxGuiGroup.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxGuiGroup.cpp; path = ../../../addons/ofxGui/src/ofxGuiGroup.cpp; sourceTree = SOURCE_ROOT; };
 		F3CFD94F37ABC9182A320B79 /* ofxAutoReloadedShader.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxAutoReloadedShader.h; path = ../../../addons/ofxAutoReloadedShader/src/ofxAutoReloadedShader.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
@@ -290,11 +286,11 @@
 			name = local_addons;
 			sourceTree = "<group>";
 		};
-		6F914852225DED71005D8A21 /* shaders */ = {
+		6F54810922577BF700A101E2 /* shaders */ = {
 			isa = PBXGroup;
 			children = (
-				6F914853225DED71005D8A21 /* frag.glsl */,
-				6F914854225DED71005D8A21 /* vert.glsl */,
+				6F54810A22577BF700A101E2 /* frag.glsl */,
+				6F54810B22577BF700A101E2 /* vert.glsl */,
 			);
 			name = shaders;
 			path = bin/data/shaders;
@@ -328,19 +324,10 @@
 			name = src;
 			sourceTree = "<group>";
 		};
-		AD7814744533132E24C1FA28 /* ofxGLWarper */ = {
-			isa = PBXGroup;
-			children = (
-				EACF88951E9EEA95503B05A5 /* src */,
-			);
-			name = ofxGLWarper;
-			sourceTree = "<group>";
-		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
 				38A85F4B8B6D987F0B0390B2 /* ofxAutoReloadedShader */,
-				AD7814744533132E24C1FA28 /* ofxGLWarper */,
 				480A780D8D0308AE4A368801 /* ofxGui */,
 			);
 			name = addons;
@@ -631,14 +618,14 @@
 		E4B69B4A0A3A1720003C02F2 = {
 			isa = PBXGroup;
 			children = (
-				6F914852225DED71005D8A21 /* shaders */,
+				6F54810922577BF700A101E2 /* shaders */,
 				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
 				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
 				E4B69E1C0A3A1BDC003C02F2 /* src */,
 				E42962AA2163EDD300A6A9E2 /* openFrameworks */,
 				BB4B014C10F69532006C3DED /* addons */,
 				6948EE371B920CB800B5AC1A /* local_addons */,
-				E4B69B5B0A3A1756003C02F2 /* template-shader-warpDebug.app */,
+				E4B69B5B0A3A1756003C02F2 /* template-shader-fboDebug.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -652,22 +639,12 @@
 			path = src;
 			sourceTree = SOURCE_ROOT;
 		};
-		EACF88951E9EEA95503B05A5 /* src */ = {
-			isa = PBXGroup;
-			children = (
-				AF6209C5F82972D99DE8A1D2 /* ofxGLWarper.cpp */,
-				D9D2C189892ACF2F28E0B18A /* ofxGLWarper.h */,
-				E8714FB653994CD3D5954321 /* ofxHomography.h */,
-			);
-			name = src;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E4B69B5A0A3A1756003C02F2 /* template-shader-warp */ = {
+		E4B69B5A0A3A1756003C02F2 /* template-shader-fbo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "template-shader-warp" */;
+			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "template-shader-fbo" */;
 			buildPhases = (
 				E42962A92163ECCD00A6A9E2 /* ShellScript */,
 				E4B69B580A3A1756003C02F2 /* Sources */,
@@ -680,9 +657,9 @@
 			);
 			dependencies = (
 			);
-			name = "template-shader-warp";
+			name = "template-shader-fbo";
 			productName = myOFApp;
-			productReference = E4B69B5B0A3A1756003C02F2 /* template-shader-warpDebug.app */;
+			productReference = E4B69B5B0A3A1756003C02F2 /* template-shader-fboDebug.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -693,7 +670,7 @@
 			attributes = {
 				LastUpgradeCheck = 0600;
 			};
-			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "template-shader-warp" */;
+			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "template-shader-fbo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -708,7 +685,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E4B69B5A0A3A1756003C02F2 /* template-shader-warp */,
+				E4B69B5A0A3A1756003C02F2 /* template-shader-fbo */,
 			);
 		};
 /* End PBXProject section */
@@ -763,7 +740,6 @@
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
 				622F2B6B3FFAA37224C22AD2 /* ofxAutoReloadedShader.cpp in Sources */,
-				4E847D04587AE2FA1597E2F4 /* ofxGLWarper.cpp in Sources */,
 				856AA354D08AB4B323081444 /* ofxBaseGui.cpp in Sources */,
 				5CBB2AB3A60F65431D7B555D /* ofxButton.cpp in Sources */,
 				853E0BA2F448076739446874 /* ofxColorPicker.cpp in Sources */,
@@ -806,7 +782,6 @@
 					src,
 					src,
 					../../../addons/ofxAutoReloadedShader/src,
-					../../../addons/ofxGLWarper/src,
 					../../../addons/ofxGui/src,
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
@@ -833,7 +808,6 @@
 					src,
 					src,
 					../../../addons/ofxAutoReloadedShader/src,
-					../../../addons/ofxGLWarper/src,
 					../../../addons/ofxGui/src,
 				);
 				ICON = "$(ICON_NAME_RELEASE)";
@@ -876,7 +850,6 @@
 					src,
 					src,
 					../../../addons/ofxAutoReloadedShader/src,
-					../../../addons/ofxGLWarper/src,
 					../../../addons/ofxGui/src,
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
@@ -914,7 +887,6 @@
 					src,
 					src,
 					../../../addons/ofxAutoReloadedShader/src,
-					../../../addons/ofxGLWarper/src,
 					../../../addons/ofxGui/src,
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
@@ -941,7 +913,6 @@
 					src,
 					src,
 					../../../addons/ofxAutoReloadedShader/src,
-					../../../addons/ofxGLWarper/src,
 					../../../addons/ofxGui/src,
 				);
 				ICON = "$(ICON_NAME_DEBUG)";
@@ -973,7 +944,6 @@
 					src,
 					src,
 					../../../addons/ofxAutoReloadedShader/src,
-					../../../addons/ofxGLWarper/src,
 					../../../addons/ofxGui/src,
 				);
 				ICON = "$(ICON_NAME_RELEASE)";
@@ -995,7 +965,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "template-shader-warp" */ = {
+		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "template-shader-fbo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E4B69B4E0A3A1720003C02F2 /* Debug */,
@@ -1005,7 +975,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "template-shader-warp" */ = {
+		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "template-shader-fbo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E4B69B600A3A1757003C02F2 /* Debug */,
