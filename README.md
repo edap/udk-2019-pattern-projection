@@ -47,6 +47,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 - patterns by [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
 - patterns by [Frieder Nake](https://www.google.com/search?q=Frieder+Nake+patterns)
+- patterns by [Mark Wilson](https://www.google.com/search?q=Mark+Wilson+patterns)
 - patterns by [Anni Albers](https://www.google.com/search?q=anni+albers)
 - patterns by [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
 - patterns by [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
