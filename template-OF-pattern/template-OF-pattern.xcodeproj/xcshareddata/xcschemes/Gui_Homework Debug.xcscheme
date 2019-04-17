@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-               BuildableName = "01-SinePatterns.app"
-               BlueprintName = "01-SinePatterns"
-               ReferencedContainer = "container:01-SinePatterns.xcodeproj">
+               BuildableName = "template-OF-pattern.app"
+               BlueprintName = "template-OF-pattern"
+               ReferencedContainer = "container:template-OF-pattern.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "01-SinePatterns.app"
-            BlueprintName = "01-SinePatterns"
-            ReferencedContainer = "container:01-SinePatterns.xcodeproj">
+            BuildableName = "template-OF-pattern.app"
+            BlueprintName = "template-OF-pattern"
+            ReferencedContainer = "container:template-OF-pattern.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "01-SinePatterns.app"
-            BlueprintName = "01-SinePatterns"
-            ReferencedContainer = "container:01-SinePatterns.xcodeproj">
+            BuildableName = "template-OF-pattern.app"
+            BlueprintName = "template-OF-pattern"
+            ReferencedContainer = "container:template-OF-pattern.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "01-SinePatterns.app"
-            BlueprintName = "01-SinePatterns"
-            ReferencedContainer = "container:01-SinePatterns.xcodeproj">
+            BuildableName = "template-OF-pattern.app"
+            BlueprintName = "template-OF-pattern"
+            ReferencedContainer = "container:template-OF-pattern.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
