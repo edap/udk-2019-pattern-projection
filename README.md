@@ -24,9 +24,9 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 [Randomness and Noise, 5/06](#five) 
 
-[Final project pt. 1, 19/06](#six)
+[Final project pt. 1, 19/06](#final-project-pt1)
 
-[Final project pt. 2, 3/07](#seven)
+[Final project pt. 2, 3/07](#final-project-pt2)
 
 
 <a name="#intro-to-the-course">
