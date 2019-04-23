@@ -29,7 +29,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 [Final project pt. 2, 3/07](#seven)
 
 
-<a name="#one">
+<a name="#intro-to-the-course">
 
 ## Intro to the course
 
@@ -64,7 +64,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Find an artist working with pattern, collect 3/4 images of its work, you will show them in class the next lesson with your pattern.
 
 
-<a name="#two">
+<a name="#unctions-and-colors">
 
 ## Functions and colors
 
@@ -82,7 +82,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Homework
 
-<a name="#three">
+<a name="#shapes-and-signed-distance-function">
 
 ## Shapes and signed distance function
 
@@ -100,7 +100,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Draw a form that combines several shapes.
 
 
-<a name="#four">
+<a name="#matrices-and-patterns">
 
 ## Matrices and Patterns
 
@@ -122,7 +122,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Think about a fabric on which you would like to project your pattern, think about how to hang it to a wall, if you want to project on a wall. Think about how could you move it, if you want to move it.
 
 
-<a name="#five">
+<a name="#randomness-and-noise">
 
 ## Randomness and Noise
 
@@ -133,14 +133,14 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Chapter [10](https://thebookofshaders.com/10/) and [11](https://thebookofshaders.com/11/) of the Book of shader.
 
 
-<a name="#six">
+<a name="#final-project-pt1">
 
 ## Final project pt.1
 
 </a>
 
 
-<a name="#seven">
+<a name="#final-project-pt2">
 
 ## Final project pt.2
 
