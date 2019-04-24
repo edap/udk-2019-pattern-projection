@@ -97,6 +97,7 @@ Discoveries by students:
 ### Homework
 
 - Make at least 4 sketches. You have to use these functions (they do not have to appear all in the same sketch): `sin`, `cos`, `tan`, `fract`, `step`, `smoothstep`, `mod`, `mix`, `pow` 
+- Finish to read [chapter 6](https://thebookofshaders.com/06/)
 
 <a name="#shapes-and-signed-distance-function">
 
