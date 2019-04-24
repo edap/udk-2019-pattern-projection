@@ -46,6 +46,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 
 - patterns by [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
+- patterns by [Gerard Richter](https://www.google.com/search?q=gerhard+richter+patterns)
 - patterns by [Frieder Nake](https://www.google.com/search?q=Frieder+Nake+patterns)
 - patterns by [Mark Wilson](https://www.google.com/search?q=Mark+Wilson+patterns)
 - patterns by [Anni Albers](https://www.google.com/search?q=anni+albers)
@@ -54,6 +55,12 @@ This course focuses on patterns composition and projection on surfaces using sha
 - patterns by [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
 - patterns by [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
 - More recent work with patterns by [Saskia Freeke](http://sasj.tumblr.com/)
+
+Discovery by Students:
+
+- [Damien Hirst](https://www.phillips.com/detail/DAMIEN-HIRST/NY010317/8)
+- [Ettore Sottsass](https://www.google.com/search?q=ettore+sottsass+bacteria)
+- [Archizoom](https://www.google.com/search?biw=1024&bih=530&tbm=isch&sa=1&ei=4BzAXOOwD4LRwQLN-ICYDQ&q=archizoom+patterns)
 
 
 ### Class Activities
