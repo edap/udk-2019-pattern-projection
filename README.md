@@ -55,7 +55,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 - patterns by [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
 - More recent work with patterns by [Saskia Freeke](http://sasj.tumblr.com/)
 
-Discovery by Students:
+Discoveries by students:
 
 - [Damien Hirst](https://www.phillips.com/detail/DAMIEN-HIRST/NY010317/8)
 - patterns by [Gerard Richter](https://www.google.com/search?q=gerhard+richter+patterns)
@@ -63,6 +63,9 @@ Discovery by Students:
 - [Archizoom](https://www.google.com/search?biw=1024&bih=530&tbm=isch&sa=1&ei=4BzAXOOwD4LRwQLN-ICYDQ&q=archizoom+patterns)
 - [Carsten Nicolai](https://www.google.com/search?q=carsten+nicolai+patterns)
 - [Ikeda pattern](https://www.google.com/search?biw=1024&bih=530&tbm=isch&sa=1&ei=NCPAXLSbKeWK1fAPxqiA4A8&q=ryoji+ikeda+pattern)
+- [Casey Reas](http://reas.com/kttv/)
+- [Structure #003, Casey Reas](https://artport.whitney.org/commissions/softwarestructures2016/s3_2/)
+- [Ivan Serpa](https://www.google.com/search?q=Ivan+Serpa+patterns)
 
 
 ### Class Activities
