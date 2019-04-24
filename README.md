@@ -92,7 +92,11 @@ Discoveries by students:
 
 ### Class Activities
 
+- Frontal lesson
+
 ### Homework
+
+- Make at least 4 sketches. You have to use these functions (they do not have to appear all in the same sketch): `sin`, `cos`, `tan`, `fract`, `step`, `smoothstep`, `mod`, `mix`, `pow` 
 
 <a name="#shapes-and-signed-distance-function">
 
