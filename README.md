@@ -109,6 +109,7 @@ Discoveries by students:
 
 - Chapter [7](https://thebookofshaders.com/07/) and [8](https://thebookofshaders.com/08/)of the Book of Shaders.
 - Hugh Kennedy [interactive tutorial](http://hughsk.io/fragment-foundry/chapters/07-distance-fields.html)
+- Inigo's 2d distance function [reference page](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
 
 ### Class Activities
 
