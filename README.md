@@ -45,26 +45,22 @@ This course focuses on patterns composition and projection on surfaces using sha
 - How to run your shader on different [platforms](https://thebookofshaders.com/04/)
 
 
-- patterns by [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
-- patterns by [Frieder Nake](https://www.google.com/search?q=Frieder+Nake+patterns)
-- patterns by [Mark Wilson](https://www.google.com/search?q=Mark+Wilson+patterns)
-- patterns by [Anni Albers](https://www.google.com/search?q=anni+albers)
-- patterns by [Joan Truckenbrod](https://www.google.com/search?q=Joan+Truckenbrod+patterns)
-- patterns by [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
-- patterns by [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
-- patterns by [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
-- More recent work with patterns by [Saskia Freeke](http://sasj.tumblr.com/)
-
-Discoveries by students:
-
-- [Damien Hirst](https://www.phillips.com/detail/DAMIEN-HIRST/NY010317/8)
-- patterns by [Gerard Richter](https://www.google.com/search?q=gerhard+richter+patterns)
-- [Ettore Sottsass](https://www.google.com/search?q=ettore+sottsass+bacteria)
-- [Archizoom](https://www.google.com/search?biw=1024&bih=530&tbm=isch&sa=1&ei=4BzAXOOwD4LRwQLN-ICYDQ&q=archizoom+patterns)
+- [Horst Bartnig](https://www.google.com/search?q=horst+bartnig+patterns)
+- [Frieder Nake](https://www.google.com/search?q=Frieder+Nake+patterns)
+- [Gerard Richter](https://www.google.com/search?q=gerhard+richter+patterns)
+- [Mark Wilson](https://www.google.com/search?q=Mark+Wilson+patterns)
+- [Anni Albers](https://www.google.com/search?q=anni+albers)
+- [Joan Truckenbrod](https://www.google.com/search?q=Joan+Truckenbrod+patterns)
+- [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
+- [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
+- [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
 - [Carsten Nicolai](https://www.google.com/search?q=carsten+nicolai+patterns)
 - [Ikeda pattern](https://www.google.com/search?biw=1024&bih=530&tbm=isch&sa=1&ei=NCPAXLSbKeWK1fAPxqiA4A8&q=ryoji+ikeda+pattern)
-- [Casey Reas](http://reas.com/kttv/)
-- [Structure #003, Casey Reas](https://artport.whitney.org/commissions/softwarestructures2016/s3_2/)
+- [Casey Reas](http://reas.com/kttv/) and [Structure #003](https://artport.whitney.org/commissions/softwarestructures2016/s3_2/)
+- [Saskia Freeke](http://sasj.tumblr.com/)
+- [Leonardo Solas](http://solaas.com.ar/works/optic/optic.html)
+- [Ettore Sottsass](https://www.google.com/search?q=ettore+sottsass+bacteria)
+- [Archizoom](https://www.google.com/search?biw=1024&bih=530&tbm=isch&sa=1&ei=4BzAXOOwD4LRwQLN-ICYDQ&q=archizoom+patterns)
 - [Ivan Serpa](https://www.google.com/search?q=Ivan+Serpa+patterns)
 
 
