@@ -51,6 +51,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 - [Mark Wilson](https://www.google.com/search?q=Mark+Wilson+patterns)
 - [Anni Albers](https://www.google.com/search?q=anni+albers)
 - [Joan Truckenbrod](https://www.google.com/search?q=Joan+Truckenbrod+patterns)
+- [Channe Horwitz](https://www.google.com/search?biw=1536&bih=754&tbm=isch&sa=1&ei=v6zeXJO2H8eQrgTR1rko&q=Channa+Horwitz+patterns)
 - [Daniel Buren](https://www.google.com/search?q=Daniel+Buren+patterns)
 - [Sara Morris](https://www.google.com/search?hl=en&source=hp&ei=mWqnXJ3zBcLjsAeIkrC4Bw&q=sarah+morris+pattern)
 - [Vera Molnar](https://www.google.com/search?ei=IWOnXPm_GcOasAefhI5I&q=vera+molnar+patterns)
