@@ -16,7 +16,7 @@ void main(){
     outputColor = texture(tex0, coord);
 
     // 1 swizzling
-    //outputColor = outputColor.brga;
+    outputColor = outputColor.brga;
 
     // 2 edit single channel colors
     //outputColor.r += sin(uTime);
