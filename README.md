@@ -20,13 +20,13 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 [Shapes and signed distance function, 08/05](#shapes-and-signed-distance-function)
 
-[Matrices and Patterns, 22//05](#matrices-and-patterns)
+[Matrices and Patterns, 22/05](#matrices-and-patterns)
 
 [Randomness and Noise, 5/06](#randomness-and-noise) 
 
 [Final project pt. 1, 19/06](#final-project-pt1)
 
-[Final project pt. 2, 3/07](#final-project-pt2)
+[Final project pt. 2, 26/06](#final-project-pt2)
 
 
 <a name="#intro-to-the-course">
