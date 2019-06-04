@@ -20,13 +20,13 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 [Shapes and signed distance function, 08/05](#shapes-and-signed-distance-function)
 
-[Matrices and Patterns, 22//05](#matrices-and-patterns)
+[Matrices and Patterns, 22/05](#matrices-and-patterns)
 
-[Randomness and Noise, 5/06](#randomness-and-noise) 
+[Audioreactive, 5/06](#audioreactive) 
 
 [Final project pt. 1, 19/06](#final-project-pt1)
 
-[Final project pt. 2, 3/07](#final-project-pt2)
+[Final project pt. 2, 26/06](#final-project-pt2)
 
 
 <a name="#intro-to-the-course">
@@ -137,13 +137,31 @@ This course focuses on patterns composition and projection on surfaces using sha
 - Think about a fabric on which you would like to project your pattern, think about how to hang it to a wall, if you want to project on a wall. Think about how could you move it, if you want to move it.
 
 
-<a name="#randomness-and-noise">
+<a name="#audioreactive">
 
-## Randomness and Noise
+## Audioreactive
 
 </a>
 
+
+### Class activities
+
+- Finish truchet patterns
+- Boolean operations see file BooleanOperation.frag
+- 2D noise
+- Make a copy of the OF app "template shader audio reactive".
+
 ### Resources/Inspiration
+
+
+### Homework
+
+- Make at least 5 audio reactive patterns.
+
+
+### Extra
+
+Have a look at:
 - Rioji Ikeda [works](http://www.ryojiikeda.com/)
 - Chapter [10](https://thebookofshaders.com/10/) and [11](https://thebookofshaders.com/11/) of the Book of shader.
 
