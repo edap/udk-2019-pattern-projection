@@ -156,8 +156,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 
 ### Homework
 
-- Make at least 5 audio reactive patterns.
-
+- Make at least 5 patterns that uses: boolean operations, truchet patterns, multi grid, rotation and scale.
 
 ### Extra
 
