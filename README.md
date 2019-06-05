@@ -157,6 +157,7 @@ This course focuses on patterns composition and projection on surfaces using sha
 ### Homework
 
 - Make at least 5 patterns that uses: boolean operations, truchet patterns, multi grid, rotation and scale.
+- Brainstorming for the Rundgang. Just come with an idea that we can do together.
 
 ### Extra
 
