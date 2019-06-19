@@ -166,6 +166,14 @@ Have a look at:
 - Chapter [10](https://thebookofshaders.com/10/) and [11](https://thebookofshaders.com/11/) of the Book of shader.
 
 
+### Video recording
+
+Use glslViewer to save your sketch as a collection of png files in a folder, using the `sequence` command.
+
+Use ffmpeg to merge those images into that folder into an mp4
+
+`ffmpeg -pattern_type glob -i "*.png" -s 1000x1000 -vcodec libx264 -crf 25 -pix_fmt yuv420p test.mp4`
+
 <a name="#final-project-pt1">
 
 ## Final project pt.1
