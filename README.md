@@ -167,12 +167,15 @@ Have a look at:
 
 
 ### Video recording
+If you are on windows, install [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10) first.
 
-Use glslViewer to save your sketch as a collection of png files in a folder, using the `sequence` command.
+Install [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer).
+
+Use [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) to launch your shader from the console. For example `glslViewer test.frag` to launch your test.frag shader. Use `glslViewer test.frag -w 1000 -h 1000` to render in a window of 1000x1000 pixels. To save your sketch as a collection of png files in a folder, use the `sequence` command. For example `sequence,0,6` saves the first 6 seconds of your shader in a sequence of png files.
 
 Use ffmpeg to merge those images into that folder into an mp4
 
-If you are on windows, install [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10) first.
+
 
 `ffmpeg -pattern_type glob -i "*.png" -s 1000x1000 -vcodec libx264 -crf 25 -pix_fmt yuv420p test.mp4`
 
