@@ -172,6 +172,8 @@ Use glslViewer to save your sketch as a collection of png files in a folder, usi
 
 Use ffmpeg to merge those images into that folder into an mp4
 
+If you are on windows, install [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10) first.
+
 `ffmpeg -pattern_type glob -i "*.png" -s 1000x1000 -vcodec libx264 -crf 25 -pix_fmt yuv420p test.mp4`
 
 <a name="#final-project-pt1">
